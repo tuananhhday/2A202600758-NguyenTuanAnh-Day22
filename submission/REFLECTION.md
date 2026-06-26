@@ -92,7 +92,7 @@ Nếu được thực hiện lại bài lab vào ngày mai, tôi sẽ thay đổ
 ## 7. Benchmark interpretation (≥ 150 words)
 
 > **Paste `07-benchmark-comparison.png` here**
-![Benchmark Comparison](screenshots/04-side-by-side-table.png)
+![Benchmark Comparison](screenshots/07-benchmark-comparison.png)
 
 Score table from `data/eval/benchmark_results.json`:
 
