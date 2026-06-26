@@ -1,0 +1,22 @@
+{
+  "ifeval": {
+    "sft_only": 38.2,
+    "sft_dpo": 44.5,
+    "delta": 6.3
+  },
+  "gsm8k": {
+    "sft_only": 34.5,
+    "sft_dpo": 32.8,
+    "delta": -1.7
+  },
+  "mmlu_sampled": {
+    "sft_only": 48.6,
+    "sft_dpo": 48.3,
+    "delta": -0.3
+  },
+  "alpacaeval_lite": {
+    "sft_only": 22.4,
+    "sft_dpo": 31.8,
+    "delta": 9.4
+  }
+}
